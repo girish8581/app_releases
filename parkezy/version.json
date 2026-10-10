@@ -1,7 +1,7 @@
 {
-  "version": "2.1.8",
-  "download_link": "https://github.com/girish8581/app_releases/releases/download/parkezy-v2.1.8/parkezy-fastag-2.1.8.apk",
-  "notes": "Duplicate refund screen (PR #111). Flutter/Gradle toolchain upgrade (AGP 8.7.3, Kotlin 1.9.24, Gradle 8.14.3). withOpacity deprecation fixes. GitHub-hosted OTA cutover.",
+  "version": "2.1.15",
+  "download_link": "https://github.com/girish8581/app_releases/releases/download/parkezy-v2.1.15/parkezy-fastag-2.1.15.apk",
+  "notes": "Bank-DECLINED tile now shows real parkezy entry id. TAP TO RECOVER renamed to VIEW DETAILS. Chip-stub tag reads prompt Add Manually. Reverse-dedup blocks CASH after FASTag already paid. Early-print within 500ms. SKIP button + 15s countdown on in-flight banner.",
   "project": "parkEzy",
   "mandatory": false
 }
