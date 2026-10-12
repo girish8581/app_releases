@@ -1,8 +1,9 @@
 {
-  "version": "2.1.17",
-  "download_link": "https://github.com/girish8581/app_releases/releases/download/parkezy-v2.1.17/parkezy-fastag-2.1.17.apk",
-  "notes": "500ms auto-print restored for TAG_VALIDATE_ONLY entries. Also includes 2.1.16's OTA install fix + progress banner.",
+  "version": "2.1.18",
+  "download_link": "https://github.com/girish8581/app_releases/releases/download/parkezy-v2.1.18/parkezy-fastag-2.1.18.apk",
+  "notes": "Fix bogus 'Paid Rs 30 CASH' slip on DECLINED FASTags. DECLINED popup now correctly shows 'EXIT LANE WILL COLLECT' info card. Also includes 2.1.17's 500ms early-print restore + 2.1.16's Android 11+ OTA install fix.",
   "project": "parkEzy",
   "mandatory": false
 }
+
 
