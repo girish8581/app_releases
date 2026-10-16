@@ -1,9 +1,7 @@
 {
-  "version": "2.1.19",
-  "download_link": "https://github.com/girish8581/app_releases/releases/download/parkezy-v2.1.19/parkezy-fastag-2.1.19.apk",
-  "notes": "REPRINT button now visible on DECLINED popups. Auto-print Rs 0 slip on DECLINED outcome as fallback. All receipt prints use correct ESTIMATE/CASH format based on actual recovery state.",
+  "version": "2.1.20",
+  "download_link": "https://github.com/girish8581/app_releases/releases/download/parkezy-v2.1.20/parkezy-fastag-2.1.20.apk",
+  "notes": "Manual Entry: when wrapper refuses because of a last-4 duplicate, dialog now shows the matched plates with Rs amount and time. YES = same vehicle, don't bill; NO = different vehicle, bill with override (audit-logged). Fixes KL18AC7779-style blocks caused by last-4 collisions with yesterday's FASTag plates.",
   "project": "parkEzy",
   "mandatory": false
 }
-
-
