@@ -1,7 +1,7 @@
 {
-  "version": "2.1.20",
-  "download_link": "https://github.com/girish8581/app_releases/releases/download/parkezy-v2.1.20/parkezy-fastag-2.1.20.apk",
-  "notes": "Manual Entry: when wrapper refuses because of a last-4 duplicate, dialog now shows the matched plates with Rs amount and time. YES = same vehicle, don't bill; NO = different vehicle, bill with override (audit-logged). Fixes KL18AC7779-style blocks caused by last-4 collisions with yesterday's FASTag plates.",
+  "version": "2.1.21",
+  "download_link": "https://github.com/girish8581/app_releases/releases/download/parkezy-v2.1.21/parkezy-fastag-2.1.21.apk",
+  "notes": "Exit screen: FASTag button removed. Typing the last 4 digits now finds every vehicle at the location (CASH / UPI / FASTag) in one search. Requires the paired parkezy backend update to also return full-plate FASTag rows.",
   "project": "parkEzy",
   "mandatory": false
 }
