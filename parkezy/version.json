@@ -1,7 +1,7 @@
 {
-  "version": "2.1.21",
-  "download_link": "https://github.com/girish8581/app_releases/releases/download/parkezy-v2.1.21/parkezy-fastag-2.1.21.apk",
-  "notes": "Exit screen: FASTag button removed. Typing the last 4 digits now finds every vehicle at the location (CASH / UPI / FASTag) in one search. Requires the paired parkezy backend update to also return full-plate FASTag rows.",
+  "version": "2.1.22",
+  "download_link": "https://github.com/girish8581/app_releases/releases/download/parkezy-v2.1.22/parkezy-fastag-2.1.22.apk",
+  "notes": "Duty Close fix: when an operator started a dual-staff shift without picking a partner, Submit now completes with just their own summary instead of 'An unexpected error occurred'. Start Duty also blocks the bad state from being saved in the first place. Includes 2.1.21 (unified last-4 search).",
   "project": "parkEzy",
   "mandatory": false
 }
