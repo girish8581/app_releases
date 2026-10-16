@@ -1,7 +1,7 @@
 {
   "version": "2.1.22",
   "download_link": "https://github.com/girish8581/app_releases/releases/download/parkezy-v2.1.22/parkezy-fastag-2.1.22.apk",
-  "notes": "Duty Close fix: when an operator started a dual-staff shift without picking a partner, Submit now completes with just their own summary instead of 'An unexpected error occurred'. Start Duty also blocks the bad state from being saved in the first place. Includes 2.1.21 (unified last-4 search).",
+  "notes": "*Vehicle exit will list fastag and normal vehicles together when 4 digit entry\n*duty close error fixed \n*Vehicle missing cash collection dialog added fastag matching vehicles.\nBackend will be update on 17-10-26 ,So no need to update today",
   "project": "parkEzy",
   "mandatory": false
 }
