@@ -1,7 +1,7 @@
 {
-  "version": "2.1.22",
-  "download_link": "https://github.com/girish8581/app_releases/releases/download/parkezy-v2.1.22/parkezy-fastag-2.1.22.apk",
-  "notes": "*Vehicle exit will list fastag and normal vehicles together when 4 digit entry\n*duty close error fixed \n*Vehicle missing cash collection dialog added fastag matching vehicles.\nBackend will be update on 17-10-26 ,So no need to update today",
+  "version": "2.1.24",
+  "download_link": "https://github.com/girish8581/app_releases/releases/download/parkezy-v2.1.24/parkezy-fastag-2.1.24.apk",
+  "notes": "Exit screen: ABC toggle to switch keyboard to alphanumeric for full-plate search (e.g. KL11BP493). FASTAG entry slip: Amount/Paid lines removed, Payment Mode bolded. Dual-staff Duty Close unblocked.",
   "project": "parkEzy",
   "mandatory": false
 }
