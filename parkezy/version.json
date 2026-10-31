@@ -1,7 +1,7 @@
 {
-  "version": "2.1.26",
-  "download_link": "https://github.com/girish8581/app_releases/releases/download/parkezy-v2.1.26/parkezy-fastag-2.1.26.apk",
-  "notes": "New: 'Check for Updates' tile in the drawer's Account section so operators can self-trigger an OTA check from any screen. Includes 2.1.25 (quieter inflight popup) and 2.1.24 (ABC toggle on Exit + FASTag entry slip cleanup).",
+  "version": "2.1.27",
+  "download_link": "https://github.com/girish8581/app_releases/releases/download/parkezy-v2.1.27/parkezy-fastag-2.1.27.apk",
+  "notes": "Exit slip now shows FASTag Paid: Rs X when the entry was debited via FASTag",
   "project": "parkEzy",
   "mandatory": false
 }
