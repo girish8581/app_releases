@@ -1,7 +1,7 @@
 {
-  "version": "2.1.27",
-  "download_link": "https://github.com/girish8581/app_releases/releases/download/parkezy-v2.1.27/parkezy-fastag-2.1.27.apk",
-  "notes": "Exit slip now shows FASTag Paid: Rs X when the entry was debited via FASTag",
+  "version": "2.1.28",
+  "download_link": "https://github.com/girish8581/app_releases/releases/download/parkezy-v2.1.28/parkezy-fastag-2.1.28.apk",
+  "notes": "Rebuild to nudge stale devices. Same code as 2.1.27 (FASTag Paid line on exit slip, drawer Check for Updates, quieter inflight popup, ABC toggle on Exit).",
   "project": "parkEzy",
   "mandatory": false
 }
